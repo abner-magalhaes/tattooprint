@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="42.39637mm"
+   height="42.396381mm"
+   viewBox="0 0 42.39637 42.396381"
+   version="1.1"
+   id="svg2557"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2559"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.096401"
+     inkscape:cx="24.327407"
+     inkscape:cy="73.220725"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2554" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.93402424,-0.57704962)">
+    <path
+       id="path868-2-5"
+       style="fill:#5a006d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.352777"
+       d="m 22.132724,0.57704962 c -11.67553,0 -21.19869976,9.52266038 -21.19869976,21.19818038 0,1.33249 0.12566996,2.63665 0.36275996,3.9021 5.13953,-7.74206 11.4932298,-16.7509301 19.5977698,-19.0035004 -0.48708,1.4782503 -0.68742,2.8147603 -0.51986,4.1108604 1.66531,-1.8240901 3.86082,-3.3175604 7.36338,-2.9264301 -1.94685,1.16654 -3.07539,3.2062401 -2.78071,4.4142001 1.97898,1.02384 2.46462,2.43607 3.01842,4.31911 -1.5411,0.88062 -1.87811,-0.40557 -2.48306,-1.12499 -0.46272,-0.54992 -1.31326,-0.38399 -1.79059,0.79375 3.35107,0.71601 10.62931,3.98341 13.01988,6.0978 -0.28737,1.63026 -0.93775,3.2756 -2.35076,4.28141 -3.26487,2.32529 -6.30387,-0.54808 -7.56491,-2.89338 -0.73597,-1.36916 -1.18743,-3.10814 -2.5678,-3.18945 -1.23912,-0.0736 -2.25854,1.30012 -2.4412,2.52852 3.94239,-1.44174 6.78743,5.63341 10.77609,4.54237 -1.42566,0.64098 -2.2551,0.53203 -3.74603,0.44336 -7.35776,-0.338 -8.4954,8.60362 -6.69468,14.90247 11.67554,0 21.19767,-9.5223 21.19767,-21.1982 0,-11.67552 -9.52213,-21.19818038 -21.19767,-21.19818038 z"
+       inkscape:export-filename="D:\Projetos\tattooprint\assets\images\logo\logo192.png"
+       inkscape:export-xdpi="115.03"
+       inkscape:export-ydpi="115.03" />
+  </g>
+</svg>
